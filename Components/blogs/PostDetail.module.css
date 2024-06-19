@@ -1,0 +1,19 @@
+.details {
+    max-width: 900px;
+}
+
+.header {
+    font-weight: 700;
+}
+
+.image {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.image img {
+    width: 100%;
+    object-fit: cover;
+    margin-top: 20px;
+}

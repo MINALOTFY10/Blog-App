@@ -1,0 +1,38 @@
+.blog__item {
+  margin: 0 0 1rem 0;
+}
+
+.blog__image {
+  width: 100%;
+  overflow: hidden;
+}
+
+.blog__image img {
+  width: 100%;
+  max-height: 210px;
+  object-fit: cover;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.blog__content {
+  text-align: start;
+  padding: 1rem;
+}
+
+.blog__content h3 {
+  font-size: 1.25rem;
+  color: #2c292b;
+}
+
+.blog__content p {
+  text-decoration: none;
+  color: #84858b;
+}
+
+.link {
+  text-decoration: none;
+}

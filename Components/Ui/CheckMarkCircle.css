@@ -1,0 +1,34 @@
+.circle {
+  width: 100px;
+  height: 100px;
+  background-color: var(--color-primary);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px #25ffae solid;
+  background-color: #13c39c;
+  color: white;
+  margin: 0 auto;
+  font-size: 2.8rem;
+}
+
+.check-mark {
+  font-size: 48px;
+  color: #fff;
+  animation: appear 2s ease forwards;
+}
+
+.success-header {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #7c8691;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.success-text {
+  color: #b1b7bc;
+  font-weight: 500;
+}

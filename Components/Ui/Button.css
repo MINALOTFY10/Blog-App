@@ -1,0 +1,16 @@
+.btn {
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease,
+  border-color 0.3s ease;
+  color: #4b6bfb;
+  padding: 5px 10px;
+  background-color: #f6f7ff;
+  font-size: 0.8rem;
+  margin-top: 10px;
+  -webkit-transition: background-color 0.3s ease, color 0.3s ease,border-color 0.3s ease;
+  -moz-transition: background-color 0.3s ease, color 0.3s ease,border-color 0.3s ease;
+  -ms-transition: background-color 0.3s ease, color 0.3s ease,border-color 0.3s ease;
+  -o-transition: background-color 0.3s ease, color 0.3s ease,border-color 0.3s ease;
+}
